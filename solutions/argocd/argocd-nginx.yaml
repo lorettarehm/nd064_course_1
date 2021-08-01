@@ -11,7 +11,7 @@ spec:
   source:
     # path to the folder with the YAML manifests
     path: exercises/manifests
-    repoURL: https://github.com/udacity/nd064_course_1 
+    repoURL: https://github.com/lorettarehm/nd064_course_1 
     targetRevision: HEAD
   # Sync policy
   syncPolicy: {}
